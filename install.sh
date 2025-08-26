@@ -115,6 +115,6 @@ fi
 echo -e "${GREEN}"
 echo "╔═══════════════════════════════════════╗"
 echo "║  Installation Complete! 🚀            ║"
-echo "║  Script made with ❤️ by HycroeDev     ║"
+echo "║  Script made with ❤️ by ADVIK    ║"
 echo "╚═══════════════════════════════════════╝"
 echo -e "${NC}"
