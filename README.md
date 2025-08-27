@@ -23,4 +23,4 @@ Simple docker build scripts for multiple Linux-based VPS containers.
 
 ## Credits
 
-- made by ADVIK 
+- MADE BY ADVIK / AuraDev 
